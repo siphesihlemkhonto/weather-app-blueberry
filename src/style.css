@@ -31,6 +31,7 @@ li {
 }
 
 .temp-celsius {
+  margin-top: 0;
   color: rgb(135, 135, 135);
   font-size: 64px;
   font-weight: 400;
@@ -39,4 +40,9 @@ li {
 .units {
   position: relative;
   top: -52px;
+}
+.source {
+  text-align: center;
+  margin: 0 auto;
+  max-width: 600px;
 }
