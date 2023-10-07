@@ -41,8 +41,7 @@ li {
   position: relative;
   top: -52px;
 }
-.source {
-  text-align: center;
-  margin: 0 auto;
+.app-source {
+  margin: 20px auto;
   max-width: 600px;
 }
